@@ -10,8 +10,23 @@ Graph
 
 Representation
     => We create adjacent list
-    => 
 
 Solving 
     => Mostly use DFS 
     => Mostly create parent to child list 
+
+Acyclic Graph 
+    => No cycles in graph 
+    => No path creates a cycle 
+    => No self loops 
+
+Cyclic Graph 
+    => cycles in graph 
+    => path creates a cycle 
+    => self loops 
+
+Connected Graph
+    => Path between every pair of vertices 
+
+Unconnected Graph 
+    => Path not their for some or all pair of vertices

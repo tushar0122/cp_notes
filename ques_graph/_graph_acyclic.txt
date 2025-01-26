@@ -1,4 +1,0 @@
-Acyclic Graph 
-    => No cycles in graph 
-    => No path creates a cycle 
-    => No self loops 
