@@ -1,0 +1,10 @@
+java.util.Map.Entry 
+
+Entry is interface
+
+Access 
+    => e.getKey()
+    => e.getValue()
+
+java.util.AbstractMap.SimpleEntry is implementation of it
+

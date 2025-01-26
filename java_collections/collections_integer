@@ -1,0 +1,5 @@
+When using integer in any collection 
+
+Don't use == operator 
+
+equals() method to compare object

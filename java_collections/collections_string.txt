@@ -1,0 +1,35 @@
+String 
+    => 
+    
+Access, Insert, Remove
+    => s.charAt(i) to access peek element
+    => Immutable no addition
+    => Immutable no removal 
+
+Access Time Complexity
+    => O(1)
+
+Insert Time Complexity 
+    => NA
+
+Remove Time Complexity
+    => NA
+
+Replace 
+    => s = s.replace(x, y)
+
+Iterating 
+    => for(char c: s.toCharArray()){
+
+    }
+
+Sorting 
+    => No sorting method for String use character array 
+
+Reverse 
+    => No reverse method for String use StringBuilder instead
+
+
+Substring 
+Count of all substrings =
+    => Sum of (Number of substrings ending at each character)
