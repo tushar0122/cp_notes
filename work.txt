@@ -1,4 +1,3 @@
 => Graph BFS DFS 
-=> Google Company wise 
-=> Amazon 
-=> Company with most questions last 30 days (more than 500 questions)
+=> Medium Only Company with most questions last 30 days (more than 500 questions)
+=> If can't solve 20 easy for that topic than again that question else next if very tough
