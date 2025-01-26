@@ -1,0 +1,4 @@
+Cyclic Graph 
+    => cycles in graph 
+    => path creates a cycle 
+    => self loops 
