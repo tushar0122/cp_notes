@@ -1,0 +1,22 @@
+Google
+Sort by descending frequency and medium 
+Line by line no skip
+Apply
+
+Coding 
+    => Shortest distance
+    => Graph 
+    => Goldman Sachs 
+    => Sliding window 
+    => Google Medium 
+
+Apply 
+    => Resume
+    => Goldman Sachs Apply
+    => GS Tech
+
+LLD HLD 
+
+Tech Backend 
+    => Kafka 
+    => Data Streaming 

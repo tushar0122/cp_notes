@@ -1,0 +1,6 @@
+https://leetcode.com/problems/zigzag-conversion
+https://leetcode.com/problems/simplify-path
+
+Easy
+https://leetcode.com/problems/find-the-difference
+https://leetcode.com/problems/excel-sheet-column-title

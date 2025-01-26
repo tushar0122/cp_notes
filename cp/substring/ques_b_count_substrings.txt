@@ -1,0 +1,2 @@
+https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i
+https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i

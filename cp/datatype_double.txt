@@ -1,0 +1,2 @@
+double to integer 
+    => var k = (int)x 

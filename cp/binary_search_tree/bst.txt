@@ -1,0 +1,3 @@
+BST 
+    => It doesn't contain duplicate values 
+    => It contains only unique values

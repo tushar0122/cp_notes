@@ -1,0 +1,14 @@
+In a string
+
+\\d => all digits
+[a-zA-Z]=> all characters
+$ => end of string 
+
+2 or more slash 
+s.replace("/{2, 1}", "/")
+
+end slash 
+s.replace("/$", "")
+
+match dot 
+\.

@@ -1,0 +1,4 @@
+https://leetcode.com/problems/diet-plan-performance
+https://leetcode.com/problems/maximum-strong-pair-xor-i
+https://leetcode.com/problems/contains-duplicate-ii
+https://leetcode.com/problems/arithmetic-slices

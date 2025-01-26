@@ -1,0 +1,1 @@
+int k = (int)Math.pow(i, j);
