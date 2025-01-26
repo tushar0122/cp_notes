@@ -5,7 +5,13 @@ Graph
     => Multiple paths may exist between nodes.
     => n (nodes) and m (edges) can vary freely.
     => Self loops
+    => Multiple roots 
+    => Multiple Graph
 
 Representation
     => We create adjacent list
     => 
+
+Solving 
+    => Mostly use DFS 
+    => Mostly create parent to child list 

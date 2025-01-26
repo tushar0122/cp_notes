@@ -1,0 +1,22 @@
+https://leetcode.com/problems/course-schedule
+https://leetcode.com/problems/course-schedule-ii
+
+Time 
+    => N => N => N2
+
+child first but all childs then parent (pc) => parent wise (different roots )
+parent
+    => child 
+        => child 
+            => 
+
+parent first 
+    => child []
+        => parent 
+            => issue 
+
+child first (cp) not parent wise => other child for some parent also can be there 
+    => parent[] 
+        => child 
+            => issue 
+
