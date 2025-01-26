@@ -5,3 +5,7 @@ Tree
     => Exactly one path between two nodes.
     => For n nodes, exactly (n-1) edges
     => Every tree is a graph 
+    => A tree is an undirected acyclic connected graph
+
+Height 
+    => Height varies with the root

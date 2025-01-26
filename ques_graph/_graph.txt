@@ -30,3 +30,9 @@ Connected Graph
 
 Unconnected Graph 
     => Path not their for some or all pair of vertices
+
+Directed Graph
+    => Directed path 
+
+Undirected Graph 
+    => No directed path 

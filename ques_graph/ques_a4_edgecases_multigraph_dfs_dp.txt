@@ -4,6 +4,10 @@ https://leetcode.com/problems/course-schedule-ii
 Time 
     => N => N => N2
 
+=> Directed 
+=> Cyclic 
+=> Unconnected
+
 child first but all childs then parent (pc) => parent wise (different roots )
 parent
     => child 
