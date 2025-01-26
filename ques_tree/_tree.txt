@@ -1,0 +1,7 @@
+Tree
+    => Nodes follow a parent-child relationship.
+	=> No cycles.
+	=> Always has a single root node.
+    => Exactly one path between two nodes.
+    => For n nodes, exactly (n-1) edges
+    => Every tree is a graph 

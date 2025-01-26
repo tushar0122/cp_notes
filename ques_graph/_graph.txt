@@ -1,2 +1,11 @@
 Graph 
-    =>  
+    => Can have any number of edges.	
+    => Can form cycles; may be directed or not.
+    => Root May or may not exist.	
+    => Multiple paths may exist between nodes.
+    => n (nodes) and m (edges) can vary freely.
+    => Self loops
+
+Representation
+    => We create adjacent list
+    => 
