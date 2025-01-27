@@ -1,5 +1,6 @@
 https://leetcode.com/problems/course-schedule
 https://leetcode.com/problems/course-schedule-ii
+https://leetcode.com/problems/find-the-celebrity
 
 Time 
     => N => N => N2
@@ -7,6 +8,11 @@ Time
 => Directed 
 => Cyclic 
 => Unconnected
+
+Traversal
+    => Store in parent child 
+    => Have boolean array 
+    => Make boolean array false
 
 child first but all childs then parent (pc) => parent wise (different roots )
 parent
