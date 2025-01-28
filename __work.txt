@@ -12,9 +12,5 @@ Resume
 Coding 
     => I am doing 
 
-Latest Tech Stack  & usecases
-    => their working
-    => It's okay if no syntax 
-
 LLD & HLD Design 
     => this can also be done

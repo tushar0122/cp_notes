@@ -6,6 +6,12 @@ Access, Insert, Remove
     => Immutable no addition
     => Immutable no removal 
 
+Split, IndexOf, SubString 
+    => s.split(x)
+    => s.indexOf(c)
+    => s.lastIndexOf(c)
+    => s.subString(index)
+
 Access Time Complexity
     => O(1)
 
