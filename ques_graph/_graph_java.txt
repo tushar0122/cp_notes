@@ -1,0 +1,23 @@
+class C{
+
+    static ArrayList<Integer> getIntL(){
+        return new ArrayList<Integer>();
+    }
+    
+    static ArrayList<List<Integer>> getIntLL(){
+        return new ArrayList<List<Integer>>();
+    }
+
+    static int [] getIntA(int n){
+        return new int[n];
+    }
+
+    static boolean [] getBooleanA(int n){
+        return new boolean[n];
+    }
+
+    static int dfs(ArrayList<List<Integer>> g){
+
+    }
+
+}

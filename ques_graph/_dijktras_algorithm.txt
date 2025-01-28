@@ -1,0 +1,10 @@
+Inputs 
+    => Weighted Graph 
+    => No negative edge
+    => Directed n undirected 
+    => Cyclic n Uncyclic 
+
+Algo
+    => Array to track min distance => included 
+    => PriorityQueue -> to find not included 
+    => 
