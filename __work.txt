@@ -5,3 +5,16 @@
 => Medium Only Company with most questions last 30 days (more than 500 questions)
 => If can't solve 20 easy for that topic than again that question else next if very tough
 => Repeat 
+
+Resume 
+    => Selection will be done 
+
+Coding 
+    => I am doing 
+
+Latest Tech Stack  & usecases
+    => their working
+    => It's okay if no syntax 
+
+LLD & HLD Design 
+    => this can also be done
