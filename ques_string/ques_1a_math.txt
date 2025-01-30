@@ -1,5 +1,6 @@
 https://leetcode.com/problems/zigzag-conversion
 https://leetcode.com/problems/simplify-path
+https://leetcode.com/problems/multiply-strings
 
 Easy
 https://leetcode.com/problems/find-the-difference

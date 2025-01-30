@@ -1,0 +1,7 @@
+LinkedHashSet 
+    => Maintain insertition order 
+    => By Default Access Order is false
+
+
+Access Order 
+    => Element accessed is move to end, if set true
