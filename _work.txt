@@ -1,3 +1,6 @@
+Work 
+
+
 All possible DSA 
 => Largest rectangle grid square grid 
 => Detech k size sqaure in grid
@@ -8,3 +11,5 @@ All possible DSA
 => Medium Only Company with most questions last 30 days (more than 500 questions)
 => If can't solve 20 easy for that topic than again that question else next if very tough
 => Repeat 
+
+

@@ -1,0 +1,10 @@
+s.split()
+
++ -> one more occurence
+
+\s -> match any space character 
+
+
+escape character using backslash \
+
+\s -> \\s

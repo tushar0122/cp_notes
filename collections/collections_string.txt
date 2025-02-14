@@ -12,6 +12,9 @@ Split, IndexOf, SubString
     => s.lastIndexOf(c)
     => s.subString(index)
 
+=> String.join(string, list)
+=> String.join(string, array)
+
 Access Time Complexity
     => O(1)
 
