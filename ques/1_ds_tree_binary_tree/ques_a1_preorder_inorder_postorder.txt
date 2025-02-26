@@ -1,0 +1,22 @@
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+
+Preorder 
+    => root left right 
+
+Inorder 
+    => left root right
+
+Postorder 
+    => left right root 
+
+One possible tree is BST
+
+preorder 1st Node is root 
+
+inorder 
+    => 0th m index is left subtree
+        => if subarray length > 0 left 
+    => m index is root // linear search 
+    => m n is right subtree
+        => if subarray length < 0 no tree 
+
