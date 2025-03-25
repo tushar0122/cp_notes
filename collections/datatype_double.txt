@@ -1,2 +1,5 @@
 double to integer 
     => var k = (int)x 
+
+Round 
+    => Math.round(x*1000.0)/(1000.0)
