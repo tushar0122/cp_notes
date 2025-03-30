@@ -26,6 +26,7 @@ Remove Time Complexity
 
 Replace 
     => s = s.replace(x, y)
+    => s = s.replaceFirst(x, y)
 
 Iterating 
     => for(char c: s.toCharArray()){
