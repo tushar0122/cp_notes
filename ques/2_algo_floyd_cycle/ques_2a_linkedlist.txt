@@ -10,12 +10,16 @@ Meet
 finding starting point 
 m+yn+k = 2(m+xn+k);
 m=(x-y)n -k;
+m=pn-k
 m+k = multiple of n 
 n is cycle length 
 m is starting point 
 k is point of meet 
+=> after completing p-1 cycle it comes to the same point 
+=> so 
+m = n-k;
 m = n - k
 so when we start from head and continue to slow 
 head and slow will meet at m 
 0=> m 
-k=>(pn-k) 
+k=>n-k
