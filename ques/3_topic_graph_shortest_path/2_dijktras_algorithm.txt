@@ -6,5 +6,25 @@ Inputs
 
 Algo
     => Array to track min distance => included 
-    => PriorityQueue -> to find not included 
-    =>     
+    => PriorityQueue -> to find not included
+
+dis[]=Integer_MAXIUM
+isVisted[] = false;
+dis[] 
+while(numberofVis = n)
+    isVisted = false and minDis
+    current vertex = unvisited vertex having shortest distance 
+    for each neighbour vertex isVisted = false and d[u][v] > d[u][s]+d[s][v] 
+        => update distance 
+        => mark visted 
+    isVisted[i]=true;
+
+Time Complexity: 
+    => V2
+        => Using adjacency matrix 
+    => (V+E)(logV)  
+        => Using adjacency list 
+        => Using PriorityQueue
+
+Path 
+    => Using predecssors array 
