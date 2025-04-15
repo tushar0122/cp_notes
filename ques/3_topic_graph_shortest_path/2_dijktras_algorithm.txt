@@ -19,6 +19,9 @@ while(numberofVis = n)
         => mark visted 
     isVisted[i]=true;
 
+Path 
+    => Using predecssors array 
+
 Time Complexity: 
     => V2
         => Using adjacency matrix 
@@ -26,5 +29,3 @@ Time Complexity:
         => Using adjacency list 
         => Using PriorityQueue
 
-Path 
-    => Using predecssors array 
