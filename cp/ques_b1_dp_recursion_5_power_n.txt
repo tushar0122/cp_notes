@@ -1,4 +1,0 @@
-https://leetcode.com/problems/minimum-array-sum
-
-Need to understand answer varies with what input accordingly array dimension of dp
-Optimal is only one answer.
