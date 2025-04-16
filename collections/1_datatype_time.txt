@@ -1,0 +1,7 @@
+import java.time.LocalTime;
+import java.time.Duration;
+import java.time.format.DateTimeFormatter;
+
+DateTimeFormatter formatter = DateTimeFormatter.ofPattern("HH:mm");
+p = LocalTime.parse(timePoints.get(j-1), formatter);
+long td = Duration.between(p, t2).toMinutes();
