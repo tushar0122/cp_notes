@@ -1,0 +1,4 @@
+https://leetcode.com/problems/bulb-switcher/
+
+Number having odd factors are perfect square 
+Remaining has even factors 
