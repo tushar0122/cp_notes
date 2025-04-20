@@ -1,4 +1,8 @@
 https://leetcode.com/problems/bulb-switcher/
+https://leetcode.com/problems/the-kth-factor-of-n
 
 Number having odd factors are perfect square 
 Remaining has even factors 
+
+Factors are from i to sqrt(n) ..(n/i) ...to n 
+i varies from 1 to sqrt(n)
