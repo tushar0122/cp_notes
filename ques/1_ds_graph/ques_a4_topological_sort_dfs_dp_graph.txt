@@ -14,19 +14,11 @@ Traversal
     => Have boolean array 
     => Make boolean array false
 
-child first but all childs then parent (pc) => parent wise (different roots )
-parent
-    => child 
-        => child 
-            => 
+child parent array 
 
-parent first 
-    => child []
-        => parent 
-            => issue 
+child 
+    => child parent
+        => child parent parent
+            ..
 
-child first (cp) not parent wise => other child for some parent also can be there 
-    => parent[] 
-        => child 
-            => issue 
-
+add in hashset
