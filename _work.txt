@@ -1,5 +1,7 @@
 Work 
-    => Sqaure root decomposition 
+    => Recursive function also may have dp 
+        => Space complexity 
+        => Time complexity
 
 All possible DSA 
 => Largest rectangle grid square grid 
