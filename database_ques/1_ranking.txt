@@ -1,0 +1,3 @@
+https://leetcode.com/problems/nth-highest-salary/description
+
+where is run before select
