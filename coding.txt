@@ -1,0 +1,4 @@
+No global variables
+Minimum space 
+Minimum recursion
+Minimum time
