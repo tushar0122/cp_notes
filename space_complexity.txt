@@ -1,0 +1,3 @@
+For recursive function 
+    => max depth of recursive function * size of argument 
+    => In java we pass references of array list map, so O(1)
