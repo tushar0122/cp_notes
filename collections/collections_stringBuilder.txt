@@ -5,6 +5,10 @@ Access, Insert, Remove
     => s.append(character)
     => s.deleteCharAt(index)
 
+Delete by replace 
+    => stringBuilder.setCharAt()
+    => string.replaceAll()
+
 Access Time Complexity
     => O(1)
 

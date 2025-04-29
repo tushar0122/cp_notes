@@ -6,6 +6,9 @@ Access, Insert, Remove
     => Immutable no addition
     => Immutable no removal 
 
+Replace
+    => s.replaceAll(regex, value)
+
 Split, IndexOf, SubString 
     => s.split(x)
     => s.indexOf(c)
