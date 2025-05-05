@@ -7,6 +7,11 @@ Methods
     => b = a.clone()
     => c = Arrays.copyOf(a, end_pos+1);
 
+Sort array 
+    => Arrays.sort(c)
+
+Partial sort
+    => Arrays.sort(c, fromIndex, toIndex);
 
 Functions
     => Set default values 
