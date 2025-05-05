@@ -15,6 +15,9 @@ Split, IndexOf, SubString
     => s.lastIndexOf(c)
     => s.subString(index)
 
+to Array 
+    => s.toCharArray()
+
 => String.join(string, list)
 => String.join(string, array)
 
