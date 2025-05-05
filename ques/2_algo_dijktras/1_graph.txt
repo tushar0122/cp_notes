@@ -23,8 +23,6 @@ Path
     => Using predecssors array 
 
 Time Complexity: 
-    => V2
-        => Using adjacency matrix 
     => (V+E)(logV)  
         => Using adjacency list 
         => Using PriorityQueue
