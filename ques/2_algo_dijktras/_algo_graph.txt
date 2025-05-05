@@ -24,9 +24,15 @@ So it's like visiting again but will not impact answer increase time Complexity
 Adjacency Matrix for each vertex  
     => for each pair 
         => O(V2)
+    => Space Complexity O(V2)
+    => Use this in case of dense graph
 
 PriorityQueue while empty 
     => O(ElogE)
+    => In case of dense graph 
+        => O(V2logE)
+    => Space Complexity O(E+V)
+    => Use this in case of sparse graph  
 
 In articles given using binary heap which is not built in java so no O(ElogV)
 
