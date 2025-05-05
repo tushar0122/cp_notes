@@ -29,3 +29,13 @@ PriorityQueue while empty
     => O(ElogE)
 
 In articles given using binary heap which is not built in java so no O(ElogV)
+
+    => Adjacency list 
+    => mindis array 
+    => PriorityQueue
+    => while(pq.isEmpty)
+        if(!list.contains(pq.peek())){
+            continue;
+        }
+        for(i: list )
+            if(dis)
