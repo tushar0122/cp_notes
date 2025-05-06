@@ -13,6 +13,8 @@ Access, Insert, Remove
     => s.charAt(i) to access peek element
     => Immutable no addition
     => Immutable no removal 
+    => list.remove(2); // Removes the element at index 2 (i.e., 3)
+    => list.remove(Integer.valueOf(3)); // Removes the value 3
 
 Access Time Complexity
     => O(1)
