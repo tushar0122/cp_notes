@@ -1,0 +1,5 @@
+https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets
+
+We are unable to calculate solution
+So we are checking by guessing if this is possible
+Time Complexity: (N*log(Max(A)))
