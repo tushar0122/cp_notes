@@ -1,1 +1,5 @@
 https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i
+
+Dijiktras 
+    => If not structured path 
+    => all directions in grid 
