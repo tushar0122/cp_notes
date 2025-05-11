@@ -13,6 +13,9 @@ Sort array
 Partial sort
     => Arrays.sort(c, fromIndex, toIndex);
 
+Binary Search 
+    => Arrays.binarySearch(x)
+
 Functions
     => Set default values 
     => Arrays.fill(numbers, 42);   // Fill all elements with the value 42
