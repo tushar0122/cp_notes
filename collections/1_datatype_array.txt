@@ -20,5 +20,5 @@ Functions
     => Set default values 
     => Arrays.fill(numbers, 42);   // Fill all elements with the value 42
     => Sorting
-    => Array.sort(k);
-    => Array.sort(k, Collections.reverseOrder()); // Not works for char array
+    => Arrays.sort(k);
+    => Arrays.sort(k, Collections.reverseOrder()); // Not works for char array
