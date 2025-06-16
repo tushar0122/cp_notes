@@ -12,3 +12,5 @@ Topic
     => Array 
         => Subarray
         => Subsequence 
+    => Greedy 
+    => Stack
