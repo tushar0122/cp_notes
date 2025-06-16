@@ -14,3 +14,4 @@ Topic
         => Subsequence 
     => Greedy 
     => Stack
+    => Random 
