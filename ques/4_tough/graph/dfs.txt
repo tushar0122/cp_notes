@@ -1,4 +1,3 @@
 https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities
-
-Ordering of courses
+https://leetcode.com/problems/find-eventual-safe-states
 https://leetcode.com/problems/parallel-courses
