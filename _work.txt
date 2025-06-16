@@ -1,18 +1,14 @@
 Work 
-    => Sliding window questions array
-    => Recursive function also may have dp 
-        => Space complexity 
-        => Time complexity
-
-All possible DSA 
-=> Largest rectangle grid square grid 
-=> Detech k size sqaure in grid
-=> Graph print path 
-=> BFS DFS 
-=> Topological Sort
-=> PreOrder InOrder build tree
-=> Medium Only Company with most questions last 30 days (more than 500 questions)
-=> If can't solve 20 easy for that topic than again that question else next if very tough
-=> Repeat 
-
-
+    => Google 
+        => Daily one Topic wise 2 ques 
+                => Medium first 
+    
+Topic 
+    => Graph 
+    => Matrix 
+    => String
+        => Substring  
+        => Subsequence
+    => Array 
+        => Subarray
+        => Subsequence 
