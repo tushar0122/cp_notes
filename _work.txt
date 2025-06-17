@@ -5,13 +5,17 @@ Work
     
 Topic 
     => Graph 
+    => Greedy 
+    => Dynamic Programming
     => Matrix 
+    => Monotonic Stack
+    => Sliding window 
+    => Two pointers 
+    => Prefix Sum 
     => String
         => Substring  
         => Subsequence
     => Array 
         => Subarray
         => Subsequence 
-    => Greedy 
-    => Stack
     => Random 
