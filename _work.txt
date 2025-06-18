@@ -4,9 +4,9 @@ Work
                 => Medium first 
     
 Topic 
-    => Sliding window 
     => Graph 
     => Greedy 
+    => Sliding Window
     => Dynamic Programming
     => Matrix 
     => Monotonic Stack
