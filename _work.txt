@@ -4,8 +4,8 @@ Work
                 => Medium first 
     
 Topic 
-    => Graph 
-    => Greedy 
+    => Graph done
+    => Greedy done
     => Sliding Window
     => Dynamic Programming
     => Matrix 
