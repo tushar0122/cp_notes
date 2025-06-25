@@ -1,0 +1,7 @@
+k = min num of operatios to make = 
+
+SubArray
+https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/
+
+SubString 
+https://leetcode.com/problems/longest-repeating-character-replacement 
