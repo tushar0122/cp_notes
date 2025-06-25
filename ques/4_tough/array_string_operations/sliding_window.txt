@@ -2,6 +2,7 @@ k = min num of operatios to make =
 
 SubArray
 https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/
+Here only we can increment existing element after sorting kind of finding max subarray with equal elements 
 
 SubString 
 https://leetcode.com/problems/longest-repeating-character-replacement 
