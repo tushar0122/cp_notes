@@ -6,7 +6,7 @@ Work
 Topic 
     => Graph done
     => Greedy done
-    => Sliding Window
+    => Sliding Window done
     => Dynamic Programming
     => Matrix 
     => Monotonic Stack
