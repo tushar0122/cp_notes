@@ -18,4 +18,3 @@ Topic
     => Array 
         => Subarray
         => Subsequence 
-    => Sequential 
