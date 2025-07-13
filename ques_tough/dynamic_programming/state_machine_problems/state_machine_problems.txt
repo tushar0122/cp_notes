@@ -1,0 +1,20 @@
+Every DP solution involves a "state" — even simple ones like dp[i] — because DP is about storing subproblem results.
+
+But a state machine approach is used when:
+    => States represent modes or conditions that change (on/off, holding/not holding).
+    => Transitions depend on these modes.
+
+Many classic DP problems don’t need state machine modeling because:
+    => There’s a simple recurrence relation.
+    => You don’t have to track multiple “states”, just one dimension or two.
+
+You’ll see state machines when:
+    => You have multiple decisions at each step (e.g., buy/sell, match/skip).
+    => You have to track status/history across time or positions.
+    => You have constraints like cooldowns, limits, or dependencies.
+
+🔄 Examples:
+    => Stock Buy/Sell with cooldown or limits → Track holding/selling/resting
+    => DP on strings (e.g., regular expression matching) → Track pattern vs string states
+    => Task scheduling with dependencies → Track time, task state
+    => DP on graphs with cost/state → E.g., Traveling Salesman Problem with visited mask
