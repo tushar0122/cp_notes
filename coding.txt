@@ -2,3 +2,10 @@ No global variables
 Minimum space 
 Minimum recursion
 Minimum time
+
+In case some OOPs based
+    => LRU Cache 
+        => Class 
+        => Global variables
+
+Variable with read ability
