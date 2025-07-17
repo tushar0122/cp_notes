@@ -1,1 +1,2 @@
 https://leetcode.com/problems/apply-substitutions/description
+https://leetcode.com/problems/finding-pairs-with-a-certain-sum
