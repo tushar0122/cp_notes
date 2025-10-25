@@ -1,6 +1,7 @@
 Initialization
     var l  = new ArrayList<Integer>(hashset);
     var list = new ArrayList<>(Arrays.asList("Apple", "Banana", "Cherry"));
+ArrayList<Integer> arrayList = new ArrayList<>(Arrays.stream(arr).boxed().toList());
 
 Sorting 
     => Collections.sort(l)
