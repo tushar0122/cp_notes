@@ -1,0 +1,11 @@
+Basic approach is simple recursion 
+All possible way and calculate 
+try with insert, delete, replace and take minimum of it
+3N
+
+Optimization using 2d dp 
+2 variables 
+
+O(mn)
+m is size of string 
+n is size of string
