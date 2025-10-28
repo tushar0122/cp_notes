@@ -1,0 +1,8 @@
+inorder 
+    => left root right sorted order in case of bst 
+
+post order 
+    => left right root
+
+pre order 
+    => root left right
