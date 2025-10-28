@@ -1,5 +1,8 @@
 Avoid recursion, increases space complexity mostly 
-
+Where result is numeric or boolean try with dp
 
 String conversion
 https://leetcode.com/problems/edit-distance
+
+Substring
+https://leetcode.com/problems/interleaving-string
