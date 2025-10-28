@@ -6,3 +6,5 @@ post order
 
 pre order 
     => root left right
+
+we have given unique values
