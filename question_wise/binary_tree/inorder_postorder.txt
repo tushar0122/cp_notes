@@ -8,3 +8,9 @@ pre order
     => root left right
 
 we have given unique values
+
+last element of postorder will be root 
+
+left and right inorder will left and right subtree respectively
+
+Again left tree and right tree index in postorder known by size from inorder 
