@@ -1,0 +1,9 @@
+https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville
+
+xor & -xor => rightmost set bit 
+-xor is 2s complement 
+1+1s complement is 2s complement
+
+set bit in xor means number differ in that bit 
+
+partition in two groups xor with index 
