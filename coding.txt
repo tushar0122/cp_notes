@@ -1,7 +1,8 @@
 Topic wise 2 questions 
-Array
-String 
-Map
+Array done
+String done
+Map done 
+dp
 
 No global variables
 Minimum space 
