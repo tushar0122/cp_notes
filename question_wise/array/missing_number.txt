@@ -1,5 +1,9 @@
 https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville
 
+Approach one 
+swap
+
+Approach two 
 xor & -xor => rightmost set bit 
 -xor is 2s complement 
 1+1s complement is 2s complement
