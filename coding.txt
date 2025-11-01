@@ -2,6 +2,7 @@ Topic wise 2 questions
 Array done
 String done
 Map done 
+Math done
 dp
 
 No global variables

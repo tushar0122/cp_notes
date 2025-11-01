@@ -1,0 +1,15 @@
+https://leetcode.com/problems/integer-break
+
+1. Conclusion from differentiation
+if we break number in only two factors then n/2*n/2;
+minimal difference between factors
+
+But if we have option to break in any number of factors
+
+When the maximum of f is larger than N, we should do the break.
+
+(N/2)*(N/2)>=N, then N>=4
+
+(N-1)/2 *(N+1)/2>=N, then N>=5
+
+Factor should be 3 then 2 or 4 for maximum
