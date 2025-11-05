@@ -6,3 +6,6 @@ Implements
 
 Binary Search
     => mp.floorKey(x)
+
+mp.getFirst()
+mp.getLast()
