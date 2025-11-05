@@ -30,3 +30,19 @@ Iterating
 
 Access
     => mp.keySet()
+
+map.computeIfPresent("apple", (key, val) -> val + 5);
+
+lambda expression 
+    => can't use variables that changes afterwards
+
+    removing an element but we don't know if it is part of old one are not
+    k element 
+    now let say i am removing an element an add
+
+nv was there in previous sum
+    => 
+nv was not there in previous sum 
+    => 
+pvf > nvf no chance 
+pvf = nvf & pvf > nvf no chance 
