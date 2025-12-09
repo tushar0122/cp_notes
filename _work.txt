@@ -1,13 +1,14 @@
-Completion 
-    => 14 any 
-        => 5 
-    => 14 topic wise 
-        => 
-
 Work 
-    => Google 
-        => Daily one Topic wise 2 ques 
-                => Medium first 
+    => Daily past contest
+    => Daily one Topic wise 2 ques 
+            => Medium & Hard
+    => Template coding
+
+Weekend Saturday
+    => Revise old questions, No new
+
+Weekend Sunday 
+    => Only contest
     
 Topic 
     => Graph done
@@ -24,3 +25,9 @@ Topic
     => Array 
         => Subarray
         => Subsequence 
+
+Pattern 
+Template Coding 
+Macros 
+Short Code Structure
+Fast I/O
