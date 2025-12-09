@@ -1,0 +1,47 @@
+For directed undirected Cyclic acyclic positive edge 
+
+a -> b 
+a -> c 
+c -> b 
+
+b is visited as in 
+a -> b as already shortest path because it comes earlier 
+a -> c 
+c -> b 
+
+so no meaning of again visiting the visited 
+    => No impact
+    =>
+
+Cycle handled in above case visited array using adjacency matrix but time Complexity O(V2)
+
+We are using adjacency list 
+    => PriorityQueue 
+
+In PriorityQueue even though not tracking using visited array choosing shortest distance 
+So it's like visiting again but will not impact answer increase time Complexity
+
+Adjacency Matrix for each vertex  
+    => for each pair 
+        => O(V2)
+    => Space Complexity O(V2)
+    => Use this in case of dense graph
+
+PriorityQueue while empty 
+    => O(ElogE)
+    => In case of dense graph 
+        => O(V2logE)
+    => Space Complexity O(E+V)
+    => Use this in case of sparse graph  
+
+In articles given using binary heap which is not built in java so no O(ElogV)
+
+    => Adjacency list 
+    => mindis array 
+    => PriorityQueue
+    => while(pq.isEmpty)
+        if(!list.contains(pq.peek())){
+            continue;
+        }
+        for(i: list )
+            if(dis)

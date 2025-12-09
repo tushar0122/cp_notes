@@ -1,0 +1,43 @@
+Graph 
+    => Can have any number of edges.	
+    => Can form cycles; may be directed or not.
+    => Root May or may not exist.	
+    => Multiple paths may exist between nodes.
+    => n (nodes) and m (edges) can vary freely.
+    => Self loops
+    => Multiple roots 
+    => Multiple Graph
+
+Representation
+    => We create adjacent list
+
+Solving 
+    => Mostly use DFS 
+    => Mostly create parent to child list 
+
+Acyclic Graph 
+    => No cycles in graph 
+    => No path creates a cycle 
+    => No self loops 
+
+Cyclic Graph 
+    => cycles in graph 
+    => path creates a cycle 
+    => self loops 
+
+Connected Graph
+    => Path between every pair of vertices 
+
+Unconnected Graph 
+    => Path not their for some or all pair of vertices
+
+Directed Graph
+    => Directed path 
+
+Undirected Graph 
+    => No directed path 
+
+Unweighted Graph
+
+Weighted Graph 
+    => Adjacency matrix

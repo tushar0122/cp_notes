@@ -1,0 +1,7 @@
+Get first element
+s.first()
+Get last element
+s.last()
+Remove First element
+s.pollFirst
+Remove any element

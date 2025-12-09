@@ -1,0 +1,23 @@
+LinkedList 
+    => Used as Queue
+    => Implementation of Queue interface
+
+Initialization
+    => var pq = new LinkedList<E>();
+
+Access, Insert, Remove
+    => pq.offer() to add element
+    => pq.peek() to access peek element
+    => pq.poll() to remove head & return head 
+    => pq.remove(value) to remove value
+    => pq.clear() => to remove all values
+
+Access Time Complexity
+    => O(1)
+
+Insert Time Complexity 
+    => O(1) 
+
+Remove Time Complexity
+    => O(logN) => head
+    => O(N) => any element

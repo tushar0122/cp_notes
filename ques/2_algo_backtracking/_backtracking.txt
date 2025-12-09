@@ -1,0 +1,14 @@
+Backtracking
+    => Backtracking can be defined as a general algorithmic technique that considers searching every possible combination in order to solve a computational problem. 
+
+Choose 
+Explore
+Unchoose
+
+Since backtracking algorithm is purely brute force therefore in terms of time complexity, it performs very poorly. Generally backtracking can be seen having below mentioned time complexities:
+
+Exponential (O(K^N))
+Factorial (O(N!))
+
+Generally every constraint satisfaction problem can be solved using backtracking but, Is it optimal to use backtracking every time? Turns out NO, there are a vast number of problem that can be solved using Greedy or Dynamic programming in logarithmic or polynomial time complexity which is far better than exponential complexity of Backtracking. However many problems still exists that can only be solved using Backtracking.
+

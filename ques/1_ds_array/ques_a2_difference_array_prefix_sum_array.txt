@@ -1,0 +1,5 @@
+https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i
+https://leetcode.com/problems/zero-array-transformation-i
+
+Easy 
+https://leetcode.com/problems/maximum-population-year

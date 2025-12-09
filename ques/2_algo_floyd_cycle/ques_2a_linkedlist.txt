@@ -1,0 +1,25 @@
+Concept
+Meet  
+    => 2 cases 
+        => fast is 1 behind => then fast = slow in next step 
+        => fast is 2 behind => then fast = slow in next 2 steps
+        => fast is 3 behind => the fast = slow in 3 steps 
+        => fast is 4 behind => the fast = slow in 4 steps
+    => so basically fast will meet slow in max k steps where k is length of cycle 
+
+finding starting point 
+m+yn+k = 2(m+xn+k);
+m=(x-y)n -k;
+m=pn-k
+m+k = multiple of n 
+n is cycle length 
+m is starting point 
+k is point of meet 
+=> after completing p-1 cycle it comes to the same point 
+=> so 
+m = n-k;
+m = n - k
+so when we start from head and continue to slow 
+head and slow will meet at m 
+0=> m 
+k=>n-k

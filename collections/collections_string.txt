@@ -1,0 +1,51 @@
+String 
+    => 
+    
+Access, Insert, Remove
+    => s.charAt(i) to access peek element
+    => Immutable no addition
+    => Immutable no removal 
+
+Replace
+    => s.replaceAll(regex, value)
+
+Split, IndexOf, SubString 
+    => s.split(x)
+    => s.indexOf(c)
+    => s.lastIndexOf(c)
+    => s.subString(index)
+
+to Array 
+    => s.toCharArray()
+
+=> String.join(string, list)
+=> String.join(string, array)
+
+Access Time Complexity
+    => O(1)
+
+Insert Time Complexity 
+    => NA
+
+Remove Time Complexity
+    => NA
+
+Replace 
+    => s = s.replace(x, y)
+    => s = s.replaceFirst(x, y)
+
+Iterating 
+    => for(char c: s.toCharArray()){
+
+    }
+
+Sorting 
+    => No sorting method for String use character array 
+
+Reverse 
+    => No reverse method for String use StringBuilder instead
+
+
+Substring 
+Count of all substrings =
+    => Sum of (Number of substrings ending at each character)

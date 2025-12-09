@@ -1,0 +1,6 @@
+https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray
+
+max sum ending at that element 
+break 
+    => if negtative 
+    => otherwise adding some value if overall positive fine 

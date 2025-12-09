@@ -1,0 +1,9 @@
+State 
+    => Head Pointer 
+    => Tail Pointer 
+    => Next and prev pointer for each 
+
+addFirst() => O(1)
+removeFirst() => O(1)
+removeLast() => O(1)
+

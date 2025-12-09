@@ -1,0 +1,38 @@
+Initialization
+    var l  = new ArrayList<Integer>(hashset);
+    var list = new ArrayList<>(Arrays.asList("Apple", "Banana", "Cherry"));
+
+Sorting 
+    => Collections.sort(l)
+
+Partial Sort 
+    => Collections.sort(l.sublist(i, j));
+
+
+Access, Insert, Remove
+    => s.charAt(i) to access peek element
+    => Immutable no addition
+    => Immutable no removal 
+    => list.remove(2); // Removes the element at index 2 (i.e., 3)
+    => list.remove(Integer.valueOf(3)); // Removes the value 3
+
+Access Time Complexity
+    => O(1)
+
+Insert Time Complexity 
+    => NA
+
+Remove Time Complexity
+    => NA
+
+Iterating 
+    => for(var i: list){
+        
+    }
+
+Sorting 
+    => Collections.sort(list);
+    => Collections.sort(list, Collections.reverseOrder()) => reverse Sorting
+
+Reverse 
+    => Collections.reverse(r)

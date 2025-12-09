@@ -1,0 +1,24 @@
+
+Initialization
+    => var a[] = new int[];
+
+Methods 
+    => Copy of array
+    => b = a.clone()
+    => c = Arrays.copyOf(a, end_pos+1);
+
+Sort array 
+    => Arrays.sort(c)
+
+Partial sort
+    => Arrays.sort(c, fromIndex, toIndex);
+
+Binary Search 
+    => Arrays.binarySearch(x)
+
+Functions
+    => Set default values 
+    => Arrays.fill(numbers, 42);   // Fill all elements with the value 42
+    => Sorting
+    => Arrays.sort(k);
+    => Arrays.sort(k, Collections.reverseOrder()); // Not works for char array

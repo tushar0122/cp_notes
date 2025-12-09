@@ -1,0 +1,6 @@
+Knutt Marris Pratt Algorithm
+longest proper prefix, which is also suffix 
+
+match len++ i++
+mismatch =0 i++
+mismatch !0 ;l=lps[len-1]

@@ -1,0 +1,3 @@
+minimum number of characters to replaced in a string to convert into a palindrome string with a period of k 
+i[j]=i[j+k] for all j = 0 to n-k-1
+ 

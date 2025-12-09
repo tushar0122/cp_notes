@@ -1,0 +1,4 @@
+https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k
+int r = ((i % k) + k) % k;
+mod of negative number i when dividing by k
+If a number is to divisible by a+b then remainder of a%k + b%k = k

@@ -1,0 +1,9 @@
+https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups
+
+Easy 
+https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i
+https://leetcode.com/problems/minimum-number-game
+https://leetcode.com/problems/delete-greatest-value-in-each-row
+https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity
+https://leetcode.com/problems/last-stone-weight
+https://leetcode.com/problems/relative-ranks/description

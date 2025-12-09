@@ -1,0 +1,6 @@
+double sqrt = Math.exp(Math.log(x)/2);
+double f = Math.floor(sqrt);
+double diff = sqrt - f;
+if(diff>0.99999){
+    f = f+1;
+}

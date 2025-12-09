@@ -1,0 +1,33 @@
+StringBuilder 
+
+Access, Insert, Remove
+    => s.charAt(i) to access peek element
+    => s.append(character)
+    => s.deleteCharAt(index)
+
+Delete by replace 
+    => stringBuilder.setCharAt()
+    => string.replaceAll()
+
+Access Time Complexity
+    => O(1)
+
+Insert Time Complexity 
+    => O(1)
+
+Remove Time Complexity
+    => 
+
+Iterating 
+    => for(char c: s.toString().toCharArray()){
+
+    }
+
+Sorting 
+    => No sorting method for String use character array 
+
+Reverse 
+    => s.reverse()
+
+Convert to String 
+    => s.toString()

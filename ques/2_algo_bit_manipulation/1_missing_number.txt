@@ -1,0 +1,6 @@
+https://leetcode.com/problems/single-number-ii
+
+& operator 
+    => Also works for negative integer using two's complement
+
+Java stores number as two's complement, so binary operation work for negative integer as well 

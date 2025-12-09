@@ -1,0 +1,24 @@
+https://leetcode.com/problems/course-schedule
+https://leetcode.com/problems/course-schedule-ii
+https://leetcode.com/problems/find-the-celebrity
+
+Time 
+    => N => N => N2
+
+=> Directed 
+=> Cyclic 
+=> Unconnected
+
+Traversal
+    => Store in parent child 
+    => Have boolean array 
+    => Make boolean array false
+
+child parent array 
+
+child 
+    => child parent
+        => child parent parent
+            ..
+
+add in hashset

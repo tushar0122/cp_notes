@@ -1,0 +1,4 @@
+Order of sequence generation time complexity till n is 
+
+O(logN)
+As sequence grows exponentially

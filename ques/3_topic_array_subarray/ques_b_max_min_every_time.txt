@@ -1,0 +1,4 @@
+Use PriorityQueue when max min needed many times 
+
+https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii
+https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i

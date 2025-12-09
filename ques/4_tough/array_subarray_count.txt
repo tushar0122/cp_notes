@@ -1,0 +1,4 @@
+https://leetcode.com/problems/count-number-of-nice-subarrays
+
+Using number of subarray ending with 
+Sliding window

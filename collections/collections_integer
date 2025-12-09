@@ -1,0 +1,7 @@
+When using integer in any collection 
+
+Don't use == operator 
+== 
+    => works only for -127 to 128 else compare references 
+
+equals() method to compare object

@@ -1,0 +1,2 @@
+https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends
+https://leetcode.com/problems/path-existence-queries-in-a-graph-i

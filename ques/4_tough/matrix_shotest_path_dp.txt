@@ -1,0 +1,9 @@
+https://www.geeksforgeeks.org/minimum-positive-points-to-reach-destination/
+
+Dp 
+for structured path 
+Here right and down only
+
+Choose dp over greedy
+Choose recursion over tabulation
+Recursion can be bottom up or top down

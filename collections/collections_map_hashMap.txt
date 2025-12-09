@@ -1,0 +1,32 @@
+HashMap
+    => var mp = new HashMap<E>();
+
+Initialization 
+    => var mp = new HashMap<>();
+    => var mp = new HashMap<>(otherMap);
+
+Compare 
+    => mp1.equals(mp2) => match key and values 
+
+Access, Insert, Remove
+    => mp.get() to access value element
+    => mp.put() to add key value element
+    => mp.remove(key) to remove key 
+
+Access Time Complexity
+    => O(1)
+
+Insert Time Complexity 
+    => O(logN) 
+
+Remove Time Complexity
+    => O(logN)
+
+Iterating 
+    => pq.iterator()
+    while(iterator.hasNext()){
+        iterator.next()
+    }
+
+Access
+    => mp.keySet()
