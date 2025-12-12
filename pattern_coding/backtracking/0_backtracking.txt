@@ -1,0 +1,25 @@
+Exploration
+    Recursion: Explores all possible paths, without worrying about whether they are valid until the end.
+    Backtracking: Explores only feasible paths, pruning invalid ones as soon as they are detected.
+Control
+    Recursion: Managed automatically by function calls and the call stack.
+    Backtracking: Managed explicitly using state.
+Problem Solving Approach
+    Recursion: Solves problems by breaking them into smaller, similar subproblems and solving them recursively.
+    Backtracking: Solves problems with multiple choices, exploring options systematically, and backtracking when needed.
+Applications
+    Recursion: Tree and Graph Traversal, Towers of Hanoi, Divide and Conquer Algorithms, Merge Sort, Quick Sort, and Binary Search.
+    Backtracking: N Queen problem, Rat in a Maze problem, Knight’s Tour Problem, Sudoku solver, and Graph coloring problems.
+
+When to Use Backtracking
+
+1. Constraint satisfaction problems: When you need to build a solution step by step and must satisfy certain conditions (e.g., N-Queens, Sudoku, Rat in a Maze).
+2. Search problems: When the solution space is large, but invalid or infeasible branches can be pruned early.
+3. Multiple solutions: When you need to explore all possible valid solutions, not just one.
+4. Combinatorial problems: When you must generate all valid combinations, permutations, or subsets under constraints.
+
+When Not to Use Backtracking
+1. Greedy or DP fits better: If the problem can be solved directly using a greedy strategy or dynamic programming, backtracking is overkill.
+2. No pruning possible: If all branches must be explored anyway (no constraints to cut early), brute force or iterative methods may be simpler.
+3. Large input size: Backtracking can be exponential in time. For very large inputs without strong pruning opportunities, it becomes impractical.
+4. Single optimal solution: If the task only needs one best solution with clear optimization criteria, algorithms like DP, greedy, or graph search may be faster.

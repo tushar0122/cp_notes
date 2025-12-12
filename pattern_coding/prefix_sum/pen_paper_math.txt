@@ -1,0 +1,7 @@
+Pen & Paper 
+Think Differently
+Answer can come from any manner not only 
+top down 
+down top 
+any direction 
+https://leetcode.com/problems/total-score-of-dungeon-runs/description/

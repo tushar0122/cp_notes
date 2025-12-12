@@ -1,0 +1,19 @@
+https://leetcode.com/problems/combination-sum-ii/?envType=problem-list-v2&envId=backtracking
+
+Duplicate possible only when a number is repeated 
+4 2 1 2 1 
+4 2 1 
+We can remove it with list 
+But ordering also may change so not equal 
+to solve this 
+sort the array
+and also skip duplicates
+
+Skipping duplicates
+What it means it 
+If i started with 1 
+i don't want other 1 to start with 
+1, 2 is there then i don't need another 1, 2
+1, 1, 2 is fine 
+
+so skipping only at excluding logic

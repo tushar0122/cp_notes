@@ -1,0 +1,11 @@
+Using Plain Recursion 
+2^n 
+Try with all possible subset
+
+Sort Array 
+    => to reduce possible combinations 
+        => if current number makes target less than 0 we won't go with next numbers
+
+Backtrack 
+    => if target sum is 0 
+    => if target sum is negative
