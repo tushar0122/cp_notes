@@ -1,0 +1,13 @@
+Graph are of two types 
+
+Connected Graph 
+    => all pair of vertex must have a path
+
+Disconnected Graph 
+    => Having an isolated vertex
+
+Isolated Vertex 
+    => Vertex with Zero degree
+
+Degree 
+    => Number of vertex it is connected to

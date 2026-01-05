@@ -1,33 +1,13 @@
 Work 
-    => Daily past contest
-    => Daily one Topic wise 2 ques 
-            => Medium & Hard
-    => Template coding
+    => Daily Topic wise 3 patterns than next Topic Medium & Hard 
+    => Sorted by acceptance rate
+
+1. Backtracking
+2. Union Find
 
 Weekend Saturday
-    => Revise old questions, No new
+    => No coding
 
 Weekend Sunday 
     => Only contest
-    
-Topic 
-    => Graph done
-    => Greedy done
-    => Sliding Window done
-    => Dynamic Programming
-    => Matrix 
-    => Monotonic Stack
-    => Two pointers 
-    => Prefix Sum 
-    => String
-        => Substring  
-        => Subsequence
-    => Array 
-        => Subarray
-        => Subsequence 
-
-Pattern 
-Template Coding 
-Macros 
-Short Code Structure
-Fast I/O
+    => Revise topic wise 3 patterns 

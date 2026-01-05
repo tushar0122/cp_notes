@@ -1,1 +1,2 @@
+See optimized solution which leetcode gives
 No compilation error while writing code
