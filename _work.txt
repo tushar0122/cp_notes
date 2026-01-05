@@ -3,7 +3,7 @@ Work
     => Sorted by acceptance rate
 
 1. Backtracking
-2. Union Find
+2. Dfs
 
 Weekend Saturday
     => No coding
