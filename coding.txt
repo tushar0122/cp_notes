@@ -1,2 +1,4 @@
-See optimized solution which leetcode gives
-No compilation error while writing code
+Write slow with understanding 
+No compilation error
+No logical error 
+No runtime error
