@@ -12,4 +12,4 @@ Weekend Saturday
 
 Weekend Sunday 
     => Only contest
-    => Revise topic wise 3 patterns 
+    => Revise topic wise 3 patterns with time complexity, space complexity
