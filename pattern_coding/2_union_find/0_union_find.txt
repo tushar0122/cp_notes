@@ -9,3 +9,4 @@ https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-
 Question type 2 
 Groups formed randomly 
 merging of groups
+https://leetcode.com/problems/smallest-string-with-swaps
