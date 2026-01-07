@@ -1,2 +1,11 @@
 Union
 It's more about grouping the values in some form
+
+Question type 1
+Groups formed sequentially 
+No merging of groups 
+https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elementsm
+
+Question type 2 
+Groups formed randomly 
+merging of groups
