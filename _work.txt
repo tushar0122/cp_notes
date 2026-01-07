@@ -1,6 +1,7 @@
 Work 
     => Daily Topic wise 3 patterns than next Topic Medium & Hard 
     => Sorted by acceptance rate
+    => Focus on Algorithms rather than Data Structuresm
 
 1. Backtracking
 2. Union Find
