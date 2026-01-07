@@ -10,22 +10,18 @@ class Solution {
             int v = i.get(1);
             union(p, u, v);
         }
-        var mp = new HashMap<Integer, List<Character>>();
+        var mp = new HashMap<Integer, PriorityQueue<Character>>();
         for(int i=0;i<l;i++){
             char c = s.charAt(i);
             int g = find(p, i);
-            var list = mp.getOrDefault(g, new ArrayList<Character>());
+            var list = mp.getOrDefault(g, new PriorityQueue<Character>());
             list.add(c);
             mp.put(g, list);
         }
-        for(var v: mp.values()){
-            Collections.sort(v);
-        }
-        int index[] = new int[l];
         var r = new StringBuilder();
         for(int i=0;i<l;i++){
             int g = find(p, i);
-            char c = mp.get(g).get(index[g]++);
+            char c = mp.get(g).poll();
             r.append(c);
         }
         return r.toString();

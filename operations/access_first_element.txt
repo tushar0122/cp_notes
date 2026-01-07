@@ -1,0 +1,2 @@
+TreeSet
+s.first()

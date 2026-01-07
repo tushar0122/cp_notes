@@ -10,3 +10,4 @@ Question type 2
 Groups formed randomly 
 merging of groups
 https://leetcode.com/problems/smallest-string-with-swaps
+Graph Questions
