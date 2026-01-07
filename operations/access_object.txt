@@ -1,0 +1,8 @@
+ArrayList
+get(i)
+
+LinkedList 
+pop()
+
+PriorityQueue
+poll()

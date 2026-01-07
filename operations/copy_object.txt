@@ -1,6 +1,0 @@
-ArrayList
-get(i)
-
-LinkedList 
-pop()
-
