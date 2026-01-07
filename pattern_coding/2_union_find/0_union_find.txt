@@ -1,14 +1,7 @@
 Union
 It's more about grouping the values in some form
 
-Question type 1 (Rare)
-Groups formed sequentially 
-No merging of groups 
-Sorted Array
-https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements
-
-Question type 2 
-Groups formed randomly 
-merging of groups
-https://leetcode.com/problems/smallest-string-with-swaps
-Graph Questions
+Question type 
+Array Grid connect 
+Array Graph calculate adjacent and then connect
+Array sort and connect
