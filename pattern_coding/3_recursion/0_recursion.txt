@@ -1,0 +1,10 @@
+The process in which a function calls itself directly or indirectly is called recursion and the corresponding function is called a recursive function.
+
+What are the advantages of recursive programming over iterative programming? 
+Recursion provides a clean and simple way to write code
+Recursion helps in logic building. Recursive thinking helps in solving complex problems by breaking them into smaller subproblems.
+
+What are the disadvantages of recursive programming over iterative programming?
+Note every recursive program can be written iteratively and vice versa is also true.
+Recursive programs typically have more space requirements and also more time to maintain the recursion call stack.
+Recursion can make the code more difficult to understand and debug, since it requires thinking about multiple levels of function calls..
