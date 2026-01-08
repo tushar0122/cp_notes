@@ -1,0 +1,10 @@
+DFS traversals of 3 types below 
+
+Inorder Traversal 
+left root right
+
+PreOrder Traversal 
+root left right
+
+PostOrder Traversal
+left right root
