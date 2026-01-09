@@ -12,6 +12,7 @@ Actual Solutions
     => Partial solution can be solved independently
 
 Question Type 
+Not very straight forward need to convert in dp
 
 Array 
 Return mx value based on some criteria
