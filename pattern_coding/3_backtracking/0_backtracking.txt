@@ -23,3 +23,6 @@ When Not to Use Backtracking
 2. No pruning possible: If all branches must be explored anyway (no constraints to cut early), brute force or iterative methods may be simpler.
 3. Large input size: Backtracking can be exponential in time. For very large inputs without strong pruning opportunities, it becomes impractical.
 4. Single optimal solution: If the task only needs one best solution with clear optimization criteria, algorithms like DP, greedy, or graph search may be faster.
+
+Time Complexity 
+    => Exponential in time mostly 

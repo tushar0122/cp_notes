@@ -1,0 +1,4 @@
+Solving 
+In question 
+Start with thinking if having 1d array
+If we know subsolution in 1d array and if we include one more index can we solve

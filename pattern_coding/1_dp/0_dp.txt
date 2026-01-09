@@ -6,3 +6,12 @@ Time Complexity
     => Can be more 
     => Like not O(N) or O(logN)
     => Its more around O(N2) or O(N3), input range will be smaller
+
+Actual Solutions 
+    => Depends upon partial solution 
+    => Partial solution can be solved independently
+
+Question Type 
+
+Array 
+Return mx value based on some criteria
