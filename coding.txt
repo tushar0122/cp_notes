@@ -1,3 +1,8 @@
+Medium 
+Acceptance sorted 
+Easy topic first
+3 questions unable to solve then move to next topic
+
 Write slow with understanding 
 No compilation error
 No logical error 
