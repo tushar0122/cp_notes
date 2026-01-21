@@ -5,3 +5,6 @@ If we know subsolution in 1d array and if we include one more index can we solve
 
 https://leetcode.com/problems/partition-array-for-maximum-sum
 https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors
+
+Easy
+https://leetcode.com/problems/number-of-people-aware-of-a-secret
