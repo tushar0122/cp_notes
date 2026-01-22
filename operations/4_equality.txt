@@ -1,0 +1,13 @@
+List 
+Implements HashCode & Equals 
+
+int[]
+Doesn't Implements, Need to override in custom class
+HashCode required to choose bucket 
+Equals required to add in that bucket if duplicates allowed or not
+@Override
+public int hashCode() {
+    return Arrays.hashCode(arr);
+}
+Arrays.equals(arr1, arr2)
+It is to compare array by content
