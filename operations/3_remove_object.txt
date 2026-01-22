@@ -1,0 +1,9 @@
+Queue
+q.poll()
+
+LinkedHashSet
+Iterator<String> it = set.iterator();
+if (it.hasNext()) {
+    it.next();    // move to first element
+    it.remove();  // remove it
+}
