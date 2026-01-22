@@ -6,3 +6,11 @@ pop()
 
 PriorityQueue
 poll()
+
+ArrayDeque
+add()
+peek()
+poll()
+addLast()
+peekLast()
+pollLast()
