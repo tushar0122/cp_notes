@@ -1,0 +1,1 @@
+Number of ways array can be partitioned in any number of contagious array is 2 power n-1 
