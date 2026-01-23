@@ -1,2 +1,5 @@
 TreeSet
 s.first()
+
+Queue
+q.peek()
