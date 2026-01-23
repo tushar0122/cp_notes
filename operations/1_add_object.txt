@@ -1,2 +1,9 @@
+PriorityQueue
+pq.add()
+
+Stack
+st.add()
+
 Queue 
-q.add
+q.add()
+
