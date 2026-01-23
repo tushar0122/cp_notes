@@ -1,5 +1,8 @@
+List 
+path.remove(path.size()-1);
+
 Stack
-q.poll()
+q.pop()
 
 Queue
 q.poll()
