@@ -7,3 +7,5 @@ Write slow with understanding
 No compilation error
 No logical error 
 No runtime error
+Write with variable u understand when revisit
+Add comment
