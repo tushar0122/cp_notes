@@ -1,18 +1,2 @@
-Work 
-    => Daily Topic wise 3 patterns than next Topic Medium & Hard 
-    => Sorted by acceptance rate
-    => Focus on Algorithms rather than Data Structures
-    => Already familier with Data Structures
-    => Algorithms solving do give expertise in data Structures
-
-1. Backtracking
-2. Union Find
-3. Dfs
-4. Graph
-
-Weekend Saturday
-    => No coding
-
-Weekend Sunday 
-    => Only contest
-    => Revise topic wise 3 patterns with time complexity, space complexity
+1 -> 2
+1 -> 3 -> 2 -> 
