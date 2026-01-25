@@ -1,0 +1,13 @@
+Comparator 
+Lambda Function 
+
+Array 
+Arrays.sort(nums);
+
+2d array 
+Arrays.sort(nums, (a, b)->{
+    
+})
+
+List
+Collection.sort(nums);

@@ -1,0 +1,2 @@
+After writing code
+Check base conditions for size 1 and 2 only not needed for 3
