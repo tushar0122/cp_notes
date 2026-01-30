@@ -1,0 +1,7 @@
+xor 
+
+xor is associative 
+a^(b^c) = (a^b)^c
+
+cancellation 
+a^b^a = b

@@ -11,3 +11,5 @@ Arrays.sort(nums, (a, b)->{
 
 List
 Collection.sort(nums);
+
+Collections.sort(nums, Collections.reverseOrder());

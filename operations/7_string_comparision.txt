@@ -1,0 +1,3 @@
+j.compareTo(r)
+< 0 j comes before r
+> 0
